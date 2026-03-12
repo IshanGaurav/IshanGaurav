@@ -5,7 +5,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ishan Gaurav! 
 
 <!--Start Intro-->               
-I am a **Full Stack Developer** Studying CSE in BIT Mesra , Passionate about building Robust and Scalable Web-Application . I love the challenge of turning complex problems into beautiful, simple solutions.
+I am a **Full Stack Developer** Studying ECE in BIT Mesra , Passionate about building Robust and Scalable Web-Application . I love the challenge of turning complex problems into beautiful, simple solutions.
 
 
 ## 🔭 I’m Currently Working On
@@ -16,7 +16,7 @@ I am a **Full Stack Developer** Studying CSE in BIT Mesra , Passionate about bui
 * Learning DSA and Increasing my Problem Solving Skills.
 
 ## 💻 My Tech Stack
-* **Languages:** JavaScript (ES6+), Python, HTML5, CSS3 , JAVA
+* **Languages:** JavaScript (ES6+), Python, HTML5, CSS3 , JAVA, C++
 * **Frameworks:** React, Node.js, Express, Next.JS
 * **Databases:** MongoDB, PostgreSQL
 * **Tools:** Git, Docker, GitHub , Postman , Redis
