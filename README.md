@@ -10,8 +10,8 @@ I am a **Full Stack Developer** Studying ECE in BIT Mesra , Passionate about bui
 
 ## 🔭 I’m Currently Working On
 
-* Building [Exchange](https://github.com/ayush-gupta-04/exchange), A Web-Based Platform where you can Invest in Stocks.
-* Building [Chess King](https://github.com/ayush-gupta-04/Chess-King) , A Web-Based Multiplayer chess platform to play chess with you college mates.
+* Build [Car-Rental](https://github.com/IshanGaurav/Car-Rental), A Web-Based Platform where you can for vehicle discovery, booking, and rental management.
+* Build [Bill-Buddies](https://github.com/IshanGaurav/BillBuddies) , Developed a scalable full-stack web application supporting group and individual expense management.
 * Learning advance backend communications using microservices.
 * Learning DSA and Increasing my Problem Solving Skills.
 
