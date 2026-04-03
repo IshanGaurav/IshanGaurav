@@ -12,7 +12,7 @@ I am a **Full Stack Developer** Studying ECE in BIT Mesra , Passionate about bui
 
 * Build [Car-Rental](https://github.com/IshanGaurav/Car-Rental), A Web-Based Platform where you can for vehicle discovery, booking, and rental management.
 * Build [Bill-Buddies](https://github.com/IshanGaurav/BillBuddies) , Developed a scalable full-stack web application supporting group and individual expense management.
-* Build [Resosution-Enhancer], A platform to study and implement image resolution enhancement techniques to improve low-quality surveillance images using software-only solutions, reducing the need for costly hardware upgrades.
+* Build [Resosution-Enhancer](https://github.com/IshanGaurav/image-resolution), A platform to study and implement image resolution enhancement techniques to improve low-quality surveillance images using software-only solutions, reducing the need for costly hardware upgrades.
 * Learning advance backend communications using microservices.
 * Learning DSA and Increasing my Problem Solving Skills.
 
